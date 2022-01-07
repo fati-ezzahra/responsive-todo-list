@@ -1,0 +1,74 @@
+body{
+  background-color: rgba(248, 128, 184, 0.836);
+}
+.App {
+  text-align: center;
+  background-color:  rgba(0, 0, 0, 0.815);
+  min-height: 540px;
+  width: 500px;
+  margin: 40px auto;
+  border-radius: 12px;
+
+}
+
+h1{
+  text-align: center;
+  padding-top: 20px;
+  color: rgb(226, 33, 226);
+}
+.text{
+  background-color:rgba(245, 245, 229, 0.856);
+  border: 0;
+  width: 320px;
+  height: 50px;
+  padding: 0 20px;
+  margin: 18px;
+  font-size: 15px;
+  border-radius: 12px;
+}
+
+form input::placeholder{
+  color: black;
+}
+form input:focus,.btn:focus{
+  outline: none;
+}
+
+.btn{
+
+  height: 50px;
+  width:80px;
+  color: rgb(0, 0, 0);
+  border-radius: 12px;
+  border:0;
+  cursor: pointer;
+  font-weight: bolder;
+  background-color: rgb(255, 255, 255);
+
+}
+
+
+@media (max-width: 400px) {
+  .App{
+    width: 260px;
+    /* background-color: aqua; */
+
+  }
+  .text{
+    width: 180px;
+  }
+  .btn{
+    width: 80px;
+  }
+}
+
+@media(min-width:400px )and ( max-width:700px){
+  .App{
+    width: 400px;
+    /* background-color: brown; */
+  }
+}
+
+@media(min-width:700px){
+    
+}
