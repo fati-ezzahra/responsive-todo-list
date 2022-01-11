@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/fati-ezzahra/responsive-todo-list/static/css/main.1517465d.css",
-    "main.js": "/fati-ezzahra/responsive-todo-list/static/js/main.ebe14b0f.js",
-    "static/js/787.cfd8f164.chunk.js": "/fati-ezzahra/responsive-todo-list/static/js/787.cfd8f164.chunk.js",
-    "index.html": "/fati-ezzahra/responsive-todo-list/index.html",
-    "main.1517465d.css.map": "/fati-ezzahra/responsive-todo-list/static/css/main.1517465d.css.map",
-    "main.ebe14b0f.js.map": "/fati-ezzahra/responsive-todo-list/static/js/main.ebe14b0f.js.map",
-    "787.cfd8f164.chunk.js.map": "/fati-ezzahra/responsive-todo-list/static/js/787.cfd8f164.chunk.js.map"
+    "main.css": "/responsive-todo-list/static/css/main.1517465d.css",
+    "main.js": "/responsive-todo-list/static/js/main.8cbb30f8.js",
+    "static/js/787.cfd8f164.chunk.js": "/responsive-todo-list/static/js/787.cfd8f164.chunk.js",
+    "index.html": "/responsive-todo-list/index.html",
+    "main.1517465d.css.map": "/responsive-todo-list/static/css/main.1517465d.css.map",
+    "main.8cbb30f8.js.map": "/responsive-todo-list/static/js/main.8cbb30f8.js.map",
+    "787.cfd8f164.chunk.js.map": "/responsive-todo-list/static/js/787.cfd8f164.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1517465d.css",
-    "static/js/main.ebe14b0f.js"
+    "static/js/main.8cbb30f8.js"
   ]
 }
